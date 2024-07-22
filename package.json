@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
+  "name": "SNAPE-MD",
   "version": "4.4.3",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "Snape-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name hermit-md"
+    "start": "pm2 start . --attach --name snape-md"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "Tamseel Riaz",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
